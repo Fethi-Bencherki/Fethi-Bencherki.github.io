@@ -35,7 +35,7 @@ I am within the NEST project and my research interest revolves around developing
 
 <ul style="margin: 0; padding: 0; list-style: none;">
   <li style="display: flex; margin: 0 0 1em 0; padding: 0;">
-    <span style="min-width: 130px; font-weight: bold;">Jun 22, 2024</span>
+    <span style="min-width: 130px; font-weight: bold;">Mar 01, 2025</span>
     <span>
       I am visiting the
       <a href="https://www.ese.upenn.edu/">Electrical and Systems Engineering Department</a> at
@@ -45,13 +45,13 @@ I am within the NEST project and my research interest revolves around developing
   </li>
 
   <li style="display: flex; margin: 0 0 1em 0; padding: 0;">
-    <span style="min-width: 130px; font-weight: bold;">Jan 15, 2024</span>
+    <span style="min-width: 130px; font-weight: bold;">Feb 28, 2025</span>
     <span>
       The manuscript titled
       <a href="https://arxiv.org/pdf/2412.17012">
         Adaptive Control of Positive Systems with Application to Learning in SSP Problems
       </a>
-      has been accepted for publication in
-      <i>7th Annual Learning for Dynamics & Control Conference (L4DC)</i>.
+      has been accepted for publication in Proceedings of the 
+      <i>7th Annual Learning for Dynamics & Control Conference (L4DC), PMLR</i>.
     </span>
   </li>
