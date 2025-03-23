@@ -27,11 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student at the Department of Automatic Control at Lund University and in the WASP (Wallenberg AI, autonomous systems and software program) graduate school. My main supervisor is [Pontus Giselsson](https://www.control.lth.se/personnel/personnel/pontus-giselsson/), and my co-supervisor is [Sebastian Banert](https://github.com/sbanert). I joined the department in July 2020. 
+I am a PhD student at the Department of Automatic Control at Lund University and in the WASP (Wallenberg AI, autonomous systems and software program) graduate school. My main supervisor is [Anders Rantzer](https://www.control.lth.se/personnel/personnel/anders-rantzer/). I joined the department in September 2021. I have received an MSc in Control Theory (2021) from Eskisehir technical University
 
-I have received an MSc in engineering physics (2020), an MSc in finance (2020), and a BSc in mathematics (2015), all from Lund University. I have also spent time as a student research visitor at UC Berkeley (2017) and ETH Zürich (2018). 
-
-My research interests are continuous optimization and its applications, e.g., machine learning, control, and finance. I currently focus on the design and performance analysis of first-order algorithms for convex optimization and monotone inclusion problems.
+I am within the NEST project and my research interest revolves around developing scalable control approaches for large scale networks. I am also interested in learning-based control and the identification of switched systems.
 
 ## News
 
@@ -57,15 +55,3 @@ My research interests are continuous optimization and its applications, e.g., ma
       <i>Mathematical Programming</i>.
     </span>
   </li>
-
-  <li style="display: flex; margin: 0; padding: 0;">
-    <span style="min-width: 130px; font-weight: bold;">Dec 14, 2023</span>
-    <span>
-      I am excited to announce that I am co-organizing
-      <strong>the 21st conference on advances in continuous optimization (EUROPT 2024)</strong>,
-      set to take place in Lund, Sweden, from June 26 to 28, 2024. 
-      For more details, visit the
-      <a href="https://europt2024.event.lu.se/">conference website</a>.
-    </span>
-  </li>
-</ul>
