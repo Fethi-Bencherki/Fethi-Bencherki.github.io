@@ -37,10 +37,10 @@ I am within the NEST project and my research interest revolves around developing
   <li style="display: flex; margin: 0 0 1em 0; padding: 0;">
     <span style="min-width: 130px; font-weight: bold;">Jun 22, 2024</span>
     <span>
-      I will visit the
-      <a href="https://sierra-mlopt.github.io/">Sierra team</a> at
-      <a href="https://www.inria.fr/en/inria-paris-centre">Inria Paris</a>
-      from September 2024 until February 2025.
+      I am visiting the
+      <a href="https://www.ese.upenn.edu/">Electrical and Systems Engineering Department</a> at
+      <a href="https://www.upenn.edu/">The University of Pennsylvania</a>
+      from March 2025 until June 2025.
     </span>
   </li>
 
@@ -48,10 +48,10 @@ I am within the NEST project and my research interest revolves around developing
     <span style="min-width: 130px; font-weight: bold;">Jan 15, 2024</span>
     <span>
       The manuscript titled
-      <a href="https://doi.org/10.1007/s10107-024-02061-8">
-        Automated tight Lyapunov analysis for first-order methods
+      <a href="https://arxiv.org/pdf/2412.17012">
+        Adaptive Control of Positive Systems with Application to Learning in SSP Problems
       </a>
-      has been accepted for publication in the journal
-      <i>Mathematical Programming</i>.
+      has been accepted for publication in
+      <i>7th Annual Learning for Dynamics & Control Conference (L4DC)</i>.
     </span>
   </li>
