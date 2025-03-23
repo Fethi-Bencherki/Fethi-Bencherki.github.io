@@ -10,7 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><small>
-      Email: first.last[at]control.lth.se
+      Email: fethi.bencherki[at]control.lth.se
+      fethiben[at]seas.upenn.edu
     </small></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
