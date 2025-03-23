@@ -10,8 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><small>
-      Email: fethi.bencherki[at]control.lth.se
-      fethiben[at]seas.upenn.edu
+      Email: first.last[at]control.lth.se
     </small></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -28,31 +27,45 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student at the Department of Automatic Control at Lund University and in the WASP (Wallenberg AI, autonomous systems and software program) graduate school. My main supervisor is [Anders Rantzer](https://www.control.lth.se/personnel/personnel/anders-rantzer/). I joined the department in September 2021. I have received an MSc in Control Theory (2021) from Eskisehir technical University
+I am a PhD student at the Department of Automatic Control at Lund University and in the WASP (Wallenberg AI, autonomous systems and software program) graduate school. My main supervisor is [Pontus Giselsson](https://www.control.lth.se/personnel/personnel/pontus-giselsson/), and my co-supervisor is [Sebastian Banert](https://github.com/sbanert). I joined the department in July 2020. 
 
-I am within the NEST project and my research interest revolves around developing scalable control approaches for large scale networks. I am also interested in learning-based control and the identification of switched systems.
+I have received an MSc in engineering physics (2020), an MSc in finance (2020), and a BSc in mathematics (2015), all from Lund University. I have also spent time as a student research visitor at UC Berkeley (2017) and ETH Zürich (2018). 
+
+My research interests are continuous optimization and its applications, e.g., machine learning, control, and finance. I currently focus on the design and performance analysis of first-order algorithms for convex optimization and monotone inclusion problems.
 
 ## News
 
 <ul style="margin: 0; padding: 0; list-style: none;">
   <li style="display: flex; margin: 0 0 1em 0; padding: 0;">
-    <span style="min-width: 130px; font-weight: bold;">Mar 01, 2025</span>
+    <span style="min-width: 130px; font-weight: bold;">Jun 22, 2024</span>
     <span>
-      I am visiting the
-      <a href="https://www.ese.upenn.edu/">Electrical and Systems Engineering Department</a> at
-      <a href="https://www.upenn.edu/">The University of Pennsylvania</a>
-      from March 2025 until June 2025.
+      I will visit the
+      <a href="https://sierra-mlopt.github.io/">Sierra team</a> at
+      <a href="https://www.inria.fr/en/inria-paris-centre">Inria Paris</a>
+      from September 2024 until February 2025.
     </span>
   </li>
 
   <li style="display: flex; margin: 0 0 1em 0; padding: 0;">
-    <span style="min-width: 130px; font-weight: bold;">Feb 28, 2025</span>
+    <span style="min-width: 130px; font-weight: bold;">Jan 15, 2024</span>
     <span>
       The manuscript titled
-      <a href="https://arxiv.org/pdf/2412.17012">
-        Adaptive Control of Positive Systems with Application to Learning in SSP Problems
+      <a href="https://doi.org/10.1007/s10107-024-02061-8">
+        Automated tight Lyapunov analysis for first-order methods
       </a>
-      has been accepted for publication in Proceedings of the 
-      <i>7th Annual Learning for Dynamics & Control Conference (L4DC), PMLR</i>.
+      has been accepted for publication in the journal
+      <i>Mathematical Programming</i>.
     </span>
   </li>
+
+  <li style="display: flex; margin: 0; padding: 0;">
+    <span style="min-width: 130px; font-weight: bold;">Dec 14, 2023</span>
+    <span>
+      I am excited to announce that I am co-organizing
+      <strong>the 21st conference on advances in continuous optimization (EUROPT 2024)</strong>,
+      set to take place in Lund, Sweden, from June 26 to 28, 2024. 
+      For more details, visit the
+      <a href="https://europt2024.event.lu.se/">conference website</a>.
+    </span>
+  </li>
+</ul>
