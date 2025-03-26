@@ -27,10 +27,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+I am a PhD student in the Department of Automatic Control at Lund University and a member of the WASP (Wallenberg AI, Autonomous Systems, and Software Program) graduate school, supervised by [Anders Rantzer](https://www.control.lth.se/personnel/personnel/anders-rantzer/). I joined the department in September 2021 after earning an MSc in Control Theory from Eskisehir Technical University the same year.
 
-I am a PhD student at the Department of Automatic Control at Lund University and in the WASP (Wallenberg AI, autonomous systems and software program) graduate school. My main supervisor is [Anders Rantzer](https://www.control.lth.se/personnel/personnel/anders-rantzer/). I joined the department in September 2021. I have received an MSc in Control Theory (2021) from Eskisehir technical University
-
-I am within the NEST project and my research interest revolves around developing scalable control approaches for large scale networks. I am also interested in learning-based control and the identification of switched systems.
+As part of the NEST project, my research focuses on developing scalable control approaches for large-scale networks, with additional interests in learning-based control and the identification of switched systems.
 
 ## News
 
