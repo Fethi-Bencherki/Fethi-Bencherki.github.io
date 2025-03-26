@@ -32,6 +32,7 @@ email: fethi.bencherki@control.lth.se # your email address
 #rss_icon: true # set to true to show the RSS icon
 scholar_userid: PEGLuRQAAAAJ&hl=en # your Google Scholar ID
 linkedin_username: fethi-bencherki-a8b023151
+work_url: https://www.control.lth.se/personnel/personnel/fethi-bencherki/
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
@@ -46,7 +47,7 @@ linkedin_username: fethi-bencherki-a8b023151
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: https://drive.google.com/file/d/1BqDw7tcFEh96FUOC4Sr1x5yf8jhnYmrn/view?usp=sharing # can be png, svg, jpg
-  title: University Page
-  url: https://www.control.lth.se/personnel/personnel/fethi-bencherki/
+#custom_social: # can be any name here other than the ones already defined above
+  #logo: https://drive.google.com/file/d/1BqDw7tcFEh96FUOC4Sr1x5yf8jhnYmrn/view?usp=sharing # can be png, svg, jpg
+  #title: University Page
+  #url: https://www.control.lth.se/personnel/personnel/fethi-bencherki/
