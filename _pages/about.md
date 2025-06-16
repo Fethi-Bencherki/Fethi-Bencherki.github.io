@@ -48,7 +48,7 @@ As part of the NEST project, my research focuses on developing scalable control 
     <span style="min-width: 130px; font-weight: bold;">Feb 28, 2025</span>
     <span>
       The manuscript titled
-      <a href="https://arxiv.org/pdf/2412.17012">
+      <a href="https://raw.githubusercontent.com/mlresearch/v283/main/assets/bencherki25a/bencherki25a.pdf">
         Adaptive Control of Positive Systems with Application to Learning in SSP Problems
       </a>
       has been accepted for publication in Proceedings of the 
