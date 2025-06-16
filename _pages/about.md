@@ -32,7 +32,6 @@ I am a PhD student in the Department of Automatic Control at Lund University and
 As part of the NEST project, my research focuses on developing scalable control approaches for large-scale networks, with additional interests in learning-based control and the identification of switched systems.
 
 ## News
-
   <li style="display: flex; margin: 0 0 1em 0; padding: 0;">
     <span style="min-width: 130px; font-weight: bold;">Feb 28, 2025</span>
     <span>
