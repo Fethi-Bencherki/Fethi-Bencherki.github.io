@@ -33,6 +33,18 @@ As part of the NEST project, my research focuses on developing scalable control 
 
 ## News
 
+  <li style="display: flex; margin: 0 0 1em 0; padding: 0;">
+    <span style="min-width: 130px; font-weight: bold;">Feb 28, 2025</span>
+    <span>
+      The manuscript titled
+      <a href="https://arxiv.org/abs/2107.14571">
+        Observer-based switched-linear system identification
+      </a>
+      has been accepted for publication in  
+      <i>Nonlinear Analysis: Hybrid Systems</i>.
+    </span>
+  </li>
+
 <ul style="margin: 0; padding: 0; list-style: none;">
   <li style="display: flex; margin: 0 0 1em 0; padding: 0;">
     <span style="min-width: 130px; font-weight: bold;">Mar 01, 2025</span>
