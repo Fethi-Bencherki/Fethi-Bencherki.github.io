@@ -37,7 +37,7 @@ As part of the NEST project, my research focuses on developing scalable control 
     <span>
       The manuscript titled Multi-input/multi-output switched-linear system identification from input-output data
       has been accepted for publication in  
-      <a href="https://www.sciencedirect.com/journal/signal-processing"> <i>Signal Processing</i>.
+      <a href="https://www.sciencedirect.com/journal/signal-processing">Signal Processing.
     </span>
   </li>
   
@@ -49,7 +49,7 @@ As part of the NEST project, my research focuses on developing scalable control 
         Observer-based switched-linear system identification
       </a>
       has been accepted for publication in  
-      <a href="https://www.sciencedirect.com/journal/nonlinear-analysis-hybrid-systems"> <i>Nonlinear Analysis: Hybrid Systems</i>.
+      <a href="https://www.sciencedirect.com/journal/nonlinear-analysis-hybrid-systems">Nonlinear Analysis: Hybrid Systems.
     </span>
   </li>
 
@@ -71,7 +71,7 @@ As part of the NEST project, my research focuses on developing scalable control 
       <a href="https://raw.githubusercontent.com/mlresearch/v283/main/assets/bencherki25a/bencherki25a.pdf">
         Adaptive Control of Positive Systems with Application to Learning in SSP Problems
       </a>
-      has been accepted for publication in Proceedings of the 
-      <i>7th Annual Learning for Dynamics & Control Conference (L4DC), PMLR</i>.
+      has been accepted for publication in Proceedings of the   <a href="https://sites.google.com/umich.edu/l4dc2025/"> 
+      7th Annual Learning for Dynamics & Control Conference (L4DC), PMLR.
     </span>
   </li>
