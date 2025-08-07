@@ -36,9 +36,8 @@ As part of the NEST project, my research focuses on developing scalable control 
     <span style="min-width: 130px; font-weight: bold;">Aug 07, 2025</span>
     <span>
       The manuscript titled Multi-input/multi-output switched-linear system identification from input-output data
-      </a>
       has been accepted for publication in  
-      <i>Signal Processing</i>.
+      <a href="https://www.sciencedirect.com/journal/signal-processing"> <i>Signal Processing</i>.
     </span>
   </li>
   
@@ -50,7 +49,7 @@ As part of the NEST project, my research focuses on developing scalable control 
         Observer-based switched-linear system identification
       </a>
       has been accepted for publication in  
-      <i>Nonlinear Analysis: Hybrid Systems</i>.
+      <a href="https://www.sciencedirect.com/journal/nonlinear-analysis-hybrid-systems"> <i>Nonlinear Analysis: Hybrid Systems</i>.
     </span>
   </li>
 
