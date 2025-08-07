@@ -32,15 +32,16 @@ I am a PhD student in the Department of Automatic Control at Lund University and
 As part of the NEST project, my research focuses on developing scalable control approaches for large-scale networks, with additional interests in learning-based control and the identification of switched systems.
 
 ## News
+<ul style="margin: 0; padding: 0; list-style: none;">
   <li style="display: flex; margin: 0 0 1em 0; padding: 0;">
     <span style="min-width: 130px; font-weight: bold;">Aug 07, 2025</span>
     <span>
-      The manuscript titled Multi-input/multi-output switched-linear system identification from input-output data
+      The manuscript titled <i>Multi-input/multi-output switched-linear system identification from input-output data</i>
       has been accepted for publication in  
-      <a href="https://www.sciencedirect.com/journal/signal-processing">Signal Processing.
+      <a href="https://www.sciencedirect.com/journal/signal-processing">Signal Processing</a>.
     </span>
   </li>
-  
+
   <li style="display: flex; margin: 0 0 1em 0; padding: 0;">
     <span style="min-width: 130px; font-weight: bold;">Jun 01, 2025</span>
     <span>
@@ -49,11 +50,10 @@ As part of the NEST project, my research focuses on developing scalable control 
         Observer-based switched-linear system identification
       </a>
       has been accepted for publication in  
-      <a href="https://www.sciencedirect.com/journal/nonlinear-analysis-hybrid-systems">Nonlinear Analysis: Hybrid Systems.
+      <a href="https://www.sciencedirect.com/journal/nonlinear-analysis-hybrid-systems">Nonlinear Analysis: Hybrid Systems</a>.
     </span>
   </li>
 
-<ul style="margin: 0; padding: 0; list-style: none;">
   <li style="display: flex; margin: 0 0 1em 0; padding: 0;">
     <span style="min-width: 130px; font-weight: bold;">Mar 01, 2025</span>
     <span>
@@ -71,7 +71,10 @@ As part of the NEST project, my research focuses on developing scalable control 
       <a href="https://raw.githubusercontent.com/mlresearch/v283/main/assets/bencherki25a/bencherki25a.pdf">
         Adaptive Control of Positive Systems with Application to Learning in SSP Problems
       </a>
-      has been accepted for publication in Proceedings of the   <a href="https://sites.google.com/umich.edu/l4dc2025/"> 
-      7th Annual Learning for Dynamics & Control Conference (L4DC), PMLR.
+      has been accepted for publication in the proceedings of the
+      <a href="https://sites.google.com/umich.edu/l4dc2025/">
+        7th Annual Learning for Dynamics & Control Conference (L4DC), PMLR
+      </a>.
     </span>
   </li>
+</ul>
