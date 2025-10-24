@@ -36,7 +36,7 @@ As part of the NEST project, my research focuses on developing scalable control 
   <li style="display: flex; margin: 0 0 1em 0; padding: 0;">
     <span style="min-width: 130px; font-weight: bold;">Aug 07, 2025</span>
     <span>
-      The manuscript titled <i>Multi-input/multi-output switched-linear system identification from input-output data</i>
+      The manuscript titled <a href="https://www.sciencedirect.com/science/article/pii/S016516842500461X"> Multi-input/multi-output switched-linear system identification from input-output data
       has been accepted for publication in  
       <a href="https://www.sciencedirect.com/journal/signal-processing">Signal Processing</a>.
     </span>
